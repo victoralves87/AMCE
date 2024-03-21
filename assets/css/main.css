@@ -1937,7 +1937,7 @@ section,
 .contact .info-item i {
   font-size: 38px;
   line-height: 0;
-  color: var(--accent-color);
+  color:rgb(6, 165, 218);
 }
 
 .contact .info-item h3 {
