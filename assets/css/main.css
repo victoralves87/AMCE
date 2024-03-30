@@ -140,12 +140,17 @@ h6 {
 
 }
 .cor-menu{
+  font-weight: bolder !important;
   color: #009A4E !important;
 }
 
 .cor-texto {
   color: #BF6E01 !important;
 }
+
+/* .titulo-associacao{
+  margin-top: -10px !important;
+} */
 /* Global Header on page scroll
 ------------------------------*/
 .scrolled .header {
@@ -933,6 +938,7 @@ section,
 /* About Section - Home Page
 ------------------------------*/
 .about {
+  margin-top: -30px !important;
   --background-color: #f4f4f4;
 }
 
@@ -941,9 +947,9 @@ section,
   font-weight: 500;
   line-height: 19px;
   padding: 10px 20px;
-  background: rgba(var(--accent-color-rgb), 0.05);
-  color: var(--accent-color);
-  border-radius: 7px;
+  background-color: #009a4d94 !important;
+  color: black;
+  border-radius: 0px 10px 0px 10px;
   display: inline-block;
 }
 
